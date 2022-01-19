@@ -120,9 +120,4 @@ public class ExtractNumbers {
 	}
 	
 	
-	public static void main(String[] args) throws Exception {
-		
-		ExtractNumbers en = new ExtractNumbers();
-		en.extractNumbersFromPages();
-	}
 }
